@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/Zl2Kfve.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/HLWzToV.png">
-  <img alt="Banner" src="https://i.imgur.com/HLWzToV.png">
-</picture>
 
 ## 👋 Hi, I'm Rasagna!
 
