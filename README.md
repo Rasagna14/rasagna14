@@ -1,16 +1,35 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/Zl2Kfve.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/HLWzToV.png">
+  <img alt="Banner" src="https://i.imgur.com/HLWzToV.png">
+</picture>
 
-<!--
-**Rasagna14/rasagna14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Rasagna!
 
-Here are some ideas to get you started:
+I'm a Data Engineer passionate about building reliable, scalable, and real-time data systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+
+[![AWS Certified Cloud Practitioner](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge.38d90c8a36b8cfb1dbf7c296d4188e7395479d6e.png)](https://www.credly.com/badges/YOUR-BADGE-ID)
+
+<details>
+<summary>🚀 Tech I Work With</summary>
+
+| Rank | Tools / Technologies                     |
+|------|------------------------------------------|
+| 1    | Python, SQL, PySpark               |
+| 2    | AWS (S3, Glue, Redshift, Lambda)         |
+| 3    | Snowflake, Airflow, Git                  |
+| 4    | Power BI, Tableau                        |
+
+</details>
+
+
+---
+
+> "I enjoy solving real-world problems with data."
+
+---
+
+📫 **Let’s Connect**  
+[LinkedIn](https://www.linkedin.com/in/rasagna-konduri-350aaa192/) | [Portfolio](https://your-portfolio.com) | [Email](rasagnakonduri03@gmail.com)
